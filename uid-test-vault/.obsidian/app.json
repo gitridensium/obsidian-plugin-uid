@@ -1,0 +1,8 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "_index/",
+    "/_index/.+/"
+  ]
+}

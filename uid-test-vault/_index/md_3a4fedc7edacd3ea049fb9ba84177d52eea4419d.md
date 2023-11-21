@@ -1,0 +1,4 @@
+---
+index: self
+---
+[[Untitled.md]]

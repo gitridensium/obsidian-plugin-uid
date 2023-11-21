@@ -1,0 +1,11 @@
+{
+	"id": "redacto-obsidian-uid",
+	"name": "Redacto UID Creator",
+	"version": "0.0.1",
+	"minAppVersion": "0.0.1",
+	"description": "Plugin for creating uid in the frontmatter for every opened file ",
+	"author": "Ridensium",
+	"authorUrl": "https://github.com/gitridensium/obsidian-plugin-uid",
+	"fundingUrl": "https://github.com/gitridensium/obsidian-plugin-uid",
+	"isDesktopOnly": false
+}
