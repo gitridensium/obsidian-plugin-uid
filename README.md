@@ -16,6 +16,7 @@ Images, PDFs, etc. will have also such special index file with link to them, but
 The uid is generated as SHA1 from time and random number and has that pattern `<file extention>_<hashHex from sha1>`. 
 
 ## "Index" files
+Index files are normal markdown ones too.
 To prevent indexing of these special files they have in the frontmatter also key `index` with value `self`
 
 ## "Index" folder
