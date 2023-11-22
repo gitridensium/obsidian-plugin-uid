@@ -27,7 +27,9 @@ There are no settings. The name of index folder "_index" and frontmatter key "in
 
 ## Obsidian Settings
 It is usefull to set in **Excluded Files** `_index` and or as regex `/_index/.+/` to prevent poping the indexed files in searches and other places where you prefer to see only notes and rest of files you work with.
+
 I gues everyone keep **Automatically update internal links** yet will mention it - if that settings is `on` the links bethween "index" files and "original" files will be maintained despide actions on files in the vault.
+
 Just do not rename the special "index" files :) ... if you do with some purpose it will update also the `index` key in the original file and if you use that uid somewhere it wil not anymore related to that very original file.
 
 ## JS/TS
